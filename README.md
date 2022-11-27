@@ -22,3 +22,9 @@ This project uses three potentiometers to select values for the red, green, and 
 ### Schematic
 
 ![Schematic](https://github.com/Daniel-Ian-Robinson/Arduino_RGB_Colour_Selector/blob/main/Schematic/Schematic.png)
+
+### Licence
+
+![CC BY Licence](https://licensebuttons.net/l/by/3.0/88x31.png)
+
+[CC BY 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)
